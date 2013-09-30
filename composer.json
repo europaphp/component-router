@@ -1,6 +1,6 @@
 {
-  "name": "europaphp/router",
-  "description": "EuropaPHP router component.",
+  "name": "europaphp/component-router",
+  "description": "EuropaPHP routing component.",
   "keywords": ["mvc", "view", "controller", "fast", "scalable", "simple", "module", "modular"],
   "license": "MIT",
   "authors": [
